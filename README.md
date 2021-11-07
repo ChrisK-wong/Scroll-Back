@@ -1,5 +1,5 @@
 # Scroll Back
-[Chrome extension](https://chrome.google.com/webstore/detail/scroll-back/apbbdcpieabljcbdecpbepdcmidjhmej)  to save scroll location on a webpage
+[Chrome extension](https://chrome.google.com/webstore/detail/scroll-back/apbbdcpieabljcbdecpbepdcmidjhmej)  to save scroll location on a webpage.
 
 ## Usage
 Change the modes of the extension by clicking on the icon. The color of the icon indicates the mode its on:
